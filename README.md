@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariBr05
 - 👀 I’m interested in sports, photography and coding ofc
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 📫 How to reach me mariana.yukimi@gmail.com
 
 <!---
